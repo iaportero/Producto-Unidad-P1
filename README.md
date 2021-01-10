@@ -214,7 +214,7 @@ Conclusiones:
 
 *  Tanto el metodo de analisis de  ramas como el de  lazos  son metodos efectivos para la resolucion de ejercicios con incognitas la unica diferencia es en los valores que trabaja cada uno el uno valores reales fisicos y el otro valores numericos
 
-*En el analisis de nodos  es un metodo efectivo si maneja bien la observacion y teoria de los nodos en un circuito.
+*  En el analisis de nodos es un metodo efectivo si maneja  bien la observacion y teoria de  los nodos en un circuito electrico.
 
 Anexos:
 
