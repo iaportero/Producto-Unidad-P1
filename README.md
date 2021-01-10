@@ -200,6 +200,40 @@ Diagrama 3
 )
 ![](https://github.com/iaportero/Producto-Unidad-P1/blob/main/Imagenes/i19.png)
 
+Desarrollo:
+
+
+Aportaciones:
+
+Conclusiones:
+
+*  Ampliando el conocimiento de metodos de resolucion de ecuaciones  se nos hace mas facil la resolucion de circuitos con varias incognitas.
+
+*  Tanto el metodo de analisis de  ramas como el de  lazos  son metodos efectivos para la resolucion de ejercicios con incognitas la unica diferencia es en los valores que trabaja cada uno el uno valores reales fisicos y el otro valores numericos
+
+*En el analisis de nodos  es un metodo efectivo si maneja bien la observacion y teoria de los nodos en un circuito.
+
+Anexos:
+
+Link de video del producto unidad
+
+
+
+Link del Articulo
+
+
+
+
+Bibliografia :
+
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:10-01-2021,Capitulo 9 , pags: 335-369
+
+
+▷ MÉTODO DE DETERMINANTES - RESOLUCIÓN DE ECUACIONES. (n.d.). Retrieved January 10, 2021, from https://www.electrontools.com/Home/WP/metodo-de-determinantes-o-metodo-de-cramer/
+
+
+Mapa conceptual capitulo_8_edwin_enamorado. (n.d.). Retrieved January 10, 2021, from https://es.slideshare.net/ElvisLopez5/mapa-conceptual-capitulo8edwinenamorado
+
 
 
 
