@@ -224,7 +224,7 @@ Link de video del producto unidad
 
 Link del Articulo
 
-
+https://github.com/iaportero/Producto-Unidad-P1/blob/main/Articulo/articulo2.pdf
 
 
 Bibliografia :
